@@ -1,7 +1,15 @@
-# nbook.2018-11_CRE-Nawdex-Aiko
+# Jupyter Notebooks for Plotting Analysis of the "CRE over North Atlantic" study
 
-This is a collection of jupyter notebooks that have been used to prepare plots for the paper project https://gitea.tropos.de/senf/pub.2018-11_CRE-Nawdex-Aiko .
+## Paper
+This is a collection of jupyter notebooks that have been used to prepare plots for the paper project
+
+Senf, F., A. Voigt, N. Clerbaux, A. Hünerbein, and H. Deneke, **Does increasing resolution and resolving convection improve simulated cloud-radiative effects over the North Atlantic?**, J. Geophys. Res. Atmos., submitted in Jan. 2020
+
 
 ## Python Package 
 
-A python package was developed to support the analysis for the mentioned paper. The package is found https://gitea.tropos.de/senf/proj.nawdex_analysis .
+A python package was developed to support the analysis for the mentioned paper. The package is found [https://gitea.tropos.de/senf/proj.nawdex_analysis](https://gitea.tropos.de/senf/proj.nawdex_analysis).
+
+
+## Dependencies
+Some Notebooks depend on my work tools from the `tropy` package which are collected here [https://github.com/fsenf/proj.tropy](https://github.com/fsenf/proj.tropy)
