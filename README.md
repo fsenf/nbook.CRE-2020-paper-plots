@@ -1,4 +1,7 @@
 # Jupyter Notebooks for Plotting Analysis of the "CRE over North Atlantic" study
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3952138.svg)](https://doi.org/10.5281/zenodo.3952138)
+
+
 
 ## Paper
 This is a collection of jupyter notebooks that have been used to prepare plots for the paper project
